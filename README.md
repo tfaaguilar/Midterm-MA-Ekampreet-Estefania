@@ -1,27 +1,20 @@
 # Midterm-MA-Ekampreet-Estefania
-![alt text](goldentemple.webp
-"Logo Title Text 1"),InShot_20220819_163728396.mp4
+
+Facebook opinions, agree and desagree.
 
 
-# team-Bhuvnish_Ekam
- COMPLETING  HOMEWORK ASSIGNMENT
+## Contributing
 
-# homework assignment 1
+1. Create a page with opinions.
+2. Agree with social media, Facebbok.
+3. Disagree with social media, Facebook.
 
-adding photo and knowing things about team mate
-
-
-## About us
-
-1. We are from Amritsar,India.
-2. My hobbie is to play cricket.
-3. My teammate is fond of watching movies. 
-4. We  like to eat fast food.
 
 ## Credits
- Ekampreet Kaur
- Estefania Aguilar
+
+Estefania Aguilar
+Ekampreet Kaur
 
 ## License
 
-MIT
+ MT License
