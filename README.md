@@ -1,14 +1,12 @@
 # Midterm-MA-Ekampreet-Estefania
+Facebook is killing society
 
-Facebook opinions, agree and desagree.
 
+## About us
 
-## Contributing
-
-1. Create a page with opinions.
-2. Agree with social media, Facebbok.
-3. Disagree with social media, Facebook.
-
+1. Opinions of facebook is killing society.
+2. Agree with facebook is killing society.
+3. Disagree with facebook is killing society.
 
 ## Credits
 
@@ -17,4 +15,4 @@ Ekampreet Kaur
 
 ## License
 
- MT License
+MIT
